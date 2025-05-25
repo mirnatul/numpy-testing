@@ -1,5 +1,5 @@
-from numpy import random
-import numpy as np
+from numpy import random # type: ignore
+import numpy as np # type: ignore
 
 arr = np.array([1, 2, 3, 4, 5])
 
